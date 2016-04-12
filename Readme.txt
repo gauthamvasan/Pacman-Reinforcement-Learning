@@ -1,0 +1,3 @@
+This code used the Pacman framework provided by UC Berkeley. I've modified the feature extraction code in order to enable the pacman eat ghosts when it uses a power pellet.  
+
+The learning algorithm used is On-polcy Expected Sarsa
